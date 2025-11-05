@@ -20,7 +20,7 @@ This Streamlit web application predicts a student's performance score based on s
 2. Ensure you have Python installed.
 3. Install the dependencies:
 4. Place the trained model file `student_performance_best_model.pkl` in the project root directory.
-5. Run the Streamlit app:
+5. Run the Streamlit app:in commando prompt type ("streamlit run app.py")
 6. Use the sliders and dropdowns to provide student data, then click "Predict Performance" to see results.
 
 ## Model Details
